@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/REACT-TAILWIND-FB-forms-Clown/static/css/main.dca64fa2.css",
+    "main.js": "/REACT-TAILWIND-FB-forms-Clown/static/js/main.6f965c37.js",
+    "index.html": "/REACT-TAILWIND-FB-forms-Clown/index.html",
+    "main.dca64fa2.css.map": "/REACT-TAILWIND-FB-forms-Clown/static/css/main.dca64fa2.css.map",
+    "main.6f965c37.js.map": "/REACT-TAILWIND-FB-forms-Clown/static/js/main.6f965c37.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dca64fa2.css",
+    "static/js/main.6f965c37.js"
+  ]
+}
